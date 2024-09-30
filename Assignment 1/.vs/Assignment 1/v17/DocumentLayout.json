@@ -1,0 +1,320 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Z.H\\Desktop\\WEB API\\Assignment 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{633409A2-B238-42E5-9D51-1C303D9BDC3F}|Assignment 1\\Assignment 1.csproj|c:\\users\\z.h\\desktop\\web api\\assignment 1\\assignment 1\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633409A2-B238-42E5-9D51-1C303D9BDC3F}|Assignment 1\\Assignment 1.csproj|solutionrelative:assignment 1\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633409A2-B238-42E5-9D51-1C303D9BDC3F}|Assignment 1\\Assignment 1.csproj|c:\\users\\z.h\\desktop\\web api\\assignment 1\\assignment 1\\models\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633409A2-B238-42E5-9D51-1C303D9BDC3F}|Assignment 1\\Assignment 1.csproj|solutionrelative:assignment 1\\models\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633409A2-B238-42E5-9D51-1C303D9BDC3F}|Assignment 1\\Assignment 1.csproj|c:\\users\\z.h\\desktop\\web api\\assignment 1\\assignment 1\\models\\dto\\retailerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633409A2-B238-42E5-9D51-1C303D9BDC3F}|Assignment 1\\Assignment 1.csproj|solutionrelative:assignment 1\\models\\dto\\retailerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633409A2-B238-42E5-9D51-1C303D9BDC3F}|Assignment 1\\Assignment 1.csproj|c:\\users\\z.h\\desktop\\web api\\assignment 1\\assignment 1\\controllers\\retailercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633409A2-B238-42E5-9D51-1C303D9BDC3F}|Assignment 1\\Assignment 1.csproj|solutionrelative:assignment 1\\controllers\\retailercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633409A2-B238-42E5-9D51-1C303D9BDC3F}|Assignment 1\\Assignment 1.csproj|c:\\users\\z.h\\desktop\\web api\\assignment 1\\assignment 1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633409A2-B238-42E5-9D51-1C303D9BDC3F}|Assignment 1\\Assignment 1.csproj|solutionrelative:assignment 1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633409A2-B238-42E5-9D51-1C303D9BDC3F}|Assignment 1\\Assignment 1.csproj|c:\\users\\z.h\\desktop\\web api\\assignment 1\\assignment 1\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633409A2-B238-42E5-9D51-1C303D9BDC3F}|Assignment 1\\Assignment 1.csproj|solutionrelative:assignment 1\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Z.H\\Desktop\\WEB API\\Assignment 1\\Assignment 1\\Migrations\\20240930170147_makeup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment 1\\Migrations\\20240930170147_makeup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633409A2-B238-42E5-9D51-1C303D9BDC3F}|Assignment 1\\Assignment 1.csproj|c:\\users\\z.h\\desktop\\web api\\assignment 1\\assignment 1\\models\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633409A2-B238-42E5-9D51-1C303D9BDC3F}|Assignment 1\\Assignment 1.csproj|solutionrelative:assignment 1\\models\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633409A2-B238-42E5-9D51-1C303D9BDC3F}|Assignment 1\\Assignment 1.csproj|c:\\users\\z.h\\desktop\\web api\\assignment 1\\assignment 1\\models\\retailer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633409A2-B238-42E5-9D51-1C303D9BDC3F}|Assignment 1\\Assignment 1.csproj|solutionrelative:assignment 1\\models\\retailer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633409A2-B238-42E5-9D51-1C303D9BDC3F}|Assignment 1\\Assignment 1.csproj|c:\\users\\z.h\\desktop\\web api\\assignment 1\\assignment 1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{633409A2-B238-42E5-9D51-1C303D9BDC3F}|Assignment 1\\Assignment 1.csproj|solutionrelative:assignment 1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633409A2-B238-42E5-9D51-1C303D9BDC3F}|Assignment 1\\Assignment 1.csproj|c:\\users\\z.h\\desktop\\web api\\assignment 1\\assignment 1\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633409A2-B238-42E5-9D51-1C303D9BDC3F}|Assignment 1\\Assignment 1.csproj|solutionrelative:assignment 1\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Z.H\\Desktop\\WEB API\\Assignment 1\\Assignment 1\\Migrations\\20240930165207_makeup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment 1\\Migrations\\20240930165207_makeup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633409A2-B238-42E5-9D51-1C303D9BDC3F}|Assignment 1\\Assignment 1.csproj|c:\\users\\z.h\\desktop\\web api\\assignment 1\\assignment 1\\data\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633409A2-B238-42E5-9D51-1C303D9BDC3F}|Assignment 1\\Assignment 1.csproj|solutionrelative:assignment 1\\data\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633409A2-B238-42E5-9D51-1C303D9BDC3F}|Assignment 1\\Assignment 1.csproj|c:\\users\\z.h\\desktop\\web api\\assignment 1\\assignment 1\\models\\dto\\companydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633409A2-B238-42E5-9D51-1C303D9BDC3F}|Assignment 1\\Assignment 1.csproj|solutionrelative:assignment 1\\models\\dto\\companydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633409A2-B238-42E5-9D51-1C303D9BDC3F}|Assignment 1\\Assignment 1.csproj|c:\\users\\z.h\\desktop\\web api\\assignment 1\\assignment 1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633409A2-B238-42E5-9D51-1C303D9BDC3F}|Assignment 1\\Assignment 1.csproj|solutionrelative:assignment 1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633409A2-B238-42E5-9D51-1C303D9BDC3F}|Assignment 1\\Assignment 1.csproj|c:\\users\\z.h\\desktop\\web api\\assignment 1\\assignment 1\\assignment 1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{633409A2-B238-42E5-9D51-1C303D9BDC3F}|Assignment 1\\Assignment 1.csproj|solutionrelative:assignment 1\\assignment 1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633409A2-B238-42E5-9D51-1C303D9BDC3F}|Assignment 1\\Assignment 1.csproj|c:\\users\\z.h\\desktop\\web api\\assignment 1\\assignment 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633409A2-B238-42E5-9D51-1C303D9BDC3F}|Assignment 1\\Assignment 1.csproj|solutionrelative:assignment 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633409A2-B238-42E5-9D51-1C303D9BDC3F}|Assignment 1\\Assignment 1.csproj|c:\\users\\z.h\\desktop\\web api\\assignment 1\\assignment 1\\assignment 1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{633409A2-B238-42E5-9D51-1C303D9BDC3F}|Assignment 1\\Assignment 1.csproj|solutionrelative:assignment 1\\assignment 1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Z.H\\Desktop\\WEB API\\Assignment 1\\Assignment 1\\Models\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Assignment 1\\Models\\DTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Z.H\\Desktop\\WEB API\\Assignment 1\\Assignment 1\\Models\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "Assignment 1\\Models\\DTO\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:09:56.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Z.H\\Desktop\\WEB API\\Assignment 1\\Assignment 1\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Assignment 1\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Z.H\\Desktop\\WEB API\\Assignment 1\\Assignment 1\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Assignment 1\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAIwCcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:05:53.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240930170147_makeup.cs",
+              "DocumentMoniker": "C:\\Users\\Z.H\\Desktop\\WEB API\\Assignment 1\\Assignment 1\\Migrations\\20240930170147_makeup.cs",
+              "RelativeDocumentMoniker": "Assignment 1\\Migrations\\20240930170147_makeup.cs",
+              "ToolTip": "C:\\Users\\Z.H\\Desktop\\WEB API\\Assignment 1\\Assignment 1\\Migrations\\20240930170147_makeup.cs",
+              "RelativeToolTip": "Assignment 1\\Migrations\\20240930170147_makeup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:01:47.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240930165207_makeup.cs",
+              "DocumentMoniker": "C:\\Users\\Z.H\\Desktop\\WEB API\\Assignment 1\\Assignment 1\\Migrations\\20240930165207_makeup.cs",
+              "RelativeDocumentMoniker": "Assignment 1\\Migrations\\20240930165207_makeup.cs",
+              "ToolTip": "C:\\Users\\Z.H\\Desktop\\WEB API\\Assignment 1\\Assignment 1\\Migrations\\20240930165207_makeup.cs",
+              "RelativeToolTip": "Assignment 1\\Migrations\\20240930165207_makeup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:52:07.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RetailerController.cs",
+              "DocumentMoniker": "C:\\Users\\Z.H\\Desktop\\WEB API\\Assignment 1\\Assignment 1\\Controllers\\RetailerController.cs",
+              "RelativeDocumentMoniker": "Assignment 1\\Controllers\\RetailerController.cs",
+              "ToolTip": "C:\\Users\\Z.H\\Desktop\\WEB API\\Assignment 1\\Assignment 1\\Controllers\\RetailerController.cs",
+              "RelativeToolTip": "Assignment 1\\Controllers\\RetailerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:33:30.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Z.H\\Desktop\\WEB API\\Assignment 1\\Assignment 1\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Assignment 1\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Z.H\\Desktop\\WEB API\\Assignment 1\\Assignment 1\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Assignment 1\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:36:53.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Assignment 1.http",
+              "DocumentMoniker": "C:\\Users\\Z.H\\Desktop\\WEB API\\Assignment 1\\Assignment 1\\Assignment 1.http",
+              "RelativeDocumentMoniker": "Assignment 1\\Assignment 1.http",
+              "ToolTip": "C:\\Users\\Z.H\\Desktop\\WEB API\\Assignment 1\\Assignment 1\\Assignment 1.http",
+              "RelativeToolTip": "Assignment 1\\Assignment 1.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-30T11:26:41.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Z.H\\Desktop\\WEB API\\Assignment 1\\Assignment 1\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment 1\\Program.cs",
+              "ToolTip": "C:\\Users\\Z.H\\Desktop\\WEB API\\Assignment 1\\Assignment 1\\Program.cs",
+              "RelativeToolTip": "Assignment 1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:24:49.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Z.H\\Desktop\\WEB API\\Assignment 1\\Assignment 1\\appsettings.json",
+              "RelativeDocumentMoniker": "Assignment 1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Z.H\\Desktop\\WEB API\\Assignment 1\\Assignment 1\\appsettings.json",
+              "RelativeToolTip": "Assignment 1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T11:22:34.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "C:\\Users\\Z.H\\Desktop\\WEB API\\Assignment 1\\Assignment 1\\Controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "Assignment 1\\Controllers\\CompanyController.cs",
+              "ToolTip": "C:\\Users\\Z.H\\Desktop\\WEB API\\Assignment 1\\Assignment 1\\Controllers\\CompanyController.cs",
+              "RelativeToolTip": "Assignment 1\\Controllers\\CompanyController.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAIwGcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:43:11.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RetailerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Z.H\\Desktop\\WEB API\\Assignment 1\\Assignment 1\\Models\\DTO\\RetailerDTO.cs",
+              "RelativeDocumentMoniker": "Assignment 1\\Models\\DTO\\RetailerDTO.cs",
+              "ToolTip": "C:\\Users\\Z.H\\Desktop\\WEB API\\Assignment 1\\Assignment 1\\Models\\DTO\\RetailerDTO.cs",
+              "RelativeToolTip": "Assignment 1\\Models\\DTO\\RetailerDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:32:01.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProducTDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Z.H\\Desktop\\WEB API\\Assignment 1\\Assignment 1\\Models\\DTO\\ProducTDTO.cs",
+              "RelativeDocumentMoniker": "Assignment 1\\Models\\DTO\\ProducTDTO.cs",
+              "ToolTip": "C:\\Users\\Z.H\\Desktop\\WEB API\\Assignment 1\\Assignment 1\\Models\\DTO\\ProducTDTO.cs",
+              "RelativeToolTip": "Assignment 1\\Models\\DTO\\ProducTDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:31:41.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CompanyDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Z.H\\Desktop\\WEB API\\Assignment 1\\Assignment 1\\Models\\DTO\\CompanyDTO.cs",
+              "RelativeDocumentMoniker": "Assignment 1\\Models\\DTO\\CompanyDTO.cs",
+              "ToolTip": "C:\\Users\\Z.H\\Desktop\\WEB API\\Assignment 1\\Assignment 1\\Models\\DTO\\CompanyDTO.cs",
+              "RelativeToolTip": "Assignment 1\\Models\\DTO\\CompanyDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:31:14.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Retailer.cs",
+              "DocumentMoniker": "C:\\Users\\Z.H\\Desktop\\WEB API\\Assignment 1\\Assignment 1\\Models\\Retailer.cs",
+              "RelativeDocumentMoniker": "Assignment 1\\Models\\Retailer.cs",
+              "ToolTip": "C:\\Users\\Z.H\\Desktop\\WEB API\\Assignment 1\\Assignment 1\\Models\\Retailer.cs",
+              "RelativeToolTip": "Assignment 1\\Models\\Retailer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:29:54.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Z.H\\Desktop\\WEB API\\Assignment 1\\Assignment 1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Assignment 1\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Z.H\\Desktop\\WEB API\\Assignment 1\\Assignment 1\\Models\\Product.cs",
+              "RelativeToolTip": "Assignment 1\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:29:40.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\Z.H\\Desktop\\WEB API\\Assignment 1\\Assignment 1\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "Assignment 1\\Models\\Company.cs",
+              "ToolTip": "C:\\Users\\Z.H\\Desktop\\WEB API\\Assignment 1\\Assignment 1\\Models\\Company.cs",
+              "RelativeToolTip": "Assignment 1\\Models\\Company.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:27:11.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductContext.cs",
+              "DocumentMoniker": "C:\\Users\\Z.H\\Desktop\\WEB API\\Assignment 1\\Assignment 1\\Data\\ProductContext.cs",
+              "RelativeDocumentMoniker": "Assignment 1\\Data\\ProductContext.cs",
+              "ToolTip": "C:\\Users\\Z.H\\Desktop\\WEB API\\Assignment 1\\Assignment 1\\Data\\ProductContext.cs",
+              "RelativeToolTip": "Assignment 1\\Data\\ProductContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:25:16.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Assignment 1.csproj",
+              "DocumentMoniker": "C:\\Users\\Z.H\\Desktop\\WEB API\\Assignment 1\\Assignment 1\\Assignment 1.csproj",
+              "RelativeDocumentMoniker": "Assignment 1\\Assignment 1.csproj",
+              "ToolTip": "C:\\Users\\Z.H\\Desktop\\WEB API\\Assignment 1\\Assignment 1\\Assignment 1.csproj",
+              "RelativeToolTip": "Assignment 1\\Assignment 1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-30T09:15:42.757Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
